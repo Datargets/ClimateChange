@@ -194,13 +194,6 @@ If you use this repository, code, or results in your research, please cite our p
 
 Please replace the citation information with the final published article details.
 
----
-
-## License
-
-This project is released for academic and research purposes. Please check the `LICENSE` file for more details.
-
----
 
 ## Keywords
 
